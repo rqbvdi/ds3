@@ -1,0 +1,9 @@
+v 4
+file "/vol/fob-vol3/mi24/bekbandi/ds3/sheet3/" "src_tb/tb_register_file.vhd" "a25bf74e232d3cba9db70736f349fae2fefe2518" "20250628101213.922":
+  entity tb_register_file at 1( 0) + 0 on 14;
+  architecture rtl of tb_register_file at 14( 201) + 0 on 15;
+file "/vol/fob-vol3/mi24/bekbandi/ds3/sheet3/" "src/cpu_constants_pkg.vhd" "b46439c7d18db2147a72337dcc3e599f44e15787" "20250628101213.765":
+  package cpu_constants_pkg at 1( 0) + 0 on 11;
+file "/vol/fob-vol3/mi24/bekbandi/ds3/sheet3/" "src/register_file.vhd" "69193d5aa17e6bfd1f8552740bf8b3fd904726b7" "20250628101213.823":
+  entity register_file at 1( 0) + 0 on 12;
+  architecture arch of register_file at 21( 574) + 0 on 13;
